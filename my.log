@@ -1,0 +1,11 @@
+2021年 08月 14日 星期六 19:21:31 CST
+总用量 32
+-rw-rw-r-- 1 tarena tarena  679 8月  10 20:47 file2.txt
+-rw-r--r-- 1 tarena tarena  260 8月  14 18:40 file.tar.bz2
+-rw-r--r-- 1 tarena tarena  758 8月  14 18:39 file.tar.gz
+-rw-r--r-- 1 tarena tarena  773 8月  10 21:01 file.zip
+-rw-r--r-- 1 tarena tarena    0 8月  10 20:29 hello.py
+-rw-r--r-- 1 tarena tarena   43 8月  14 19:21 my.log
+drwxr-xr-x 3 tarena tarena 4096 8月  10 20:43 python
+drwxr-xr-x 2 tarena tarena 4096 8月  10 21:02 yyds
+-rw-r--r-- 1 tarena tarena  160 8月  10 21:02 yyds.zip
